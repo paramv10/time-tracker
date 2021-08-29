@@ -5,3 +5,4 @@ Time tracker
 
 This is an open source Software. Anyone can use this project at anytime.
 Thank you!
+.
