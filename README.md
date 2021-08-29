@@ -3,4 +3,5 @@ Java (Maven) application for tracking time on the job
 
 Time tracker
 
-Hi Students !!! Good Evening!!! welcome to jenkins
+This is an open source Software. Anyone can use this project at anytime.
+Thank you!.
